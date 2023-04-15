@@ -1,0 +1,4 @@
+SET DEFAULT_STORAGE_ENGINE=INNODB;
+CREATE DATABASE biblioteca;
+USE biblioteca;
+-- DROP DATABASE biblioteca;
